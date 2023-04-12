@@ -30,3 +30,4 @@ Step 8: Create a Test Class of name AverageCalculator.scala inside this import t
 Step 8: Test the test case by using **scala test.**
 
 Output:
+
